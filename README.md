@@ -26,6 +26,9 @@
 
 ![remove bank values in price column](https://github.com/user-attachments/assets/da33c6eb-9a66-45d8-8a88-a5d9869eeb0d)
 
+## Separate the date column to year, month and day columns
+
+
 
  
 
