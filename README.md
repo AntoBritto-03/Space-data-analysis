@@ -1,6 +1,6 @@
 # Space Data Aanalysis
 
- ![Overall Dashboard](screenshot(58).png)
+ ![Overall Dashboard](Screenshot (58).png)
 
 
 
